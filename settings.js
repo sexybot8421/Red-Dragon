@@ -19,8 +19,8 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄 𝙱𝙾𝚃👻
+𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙸𝚂 𝙽𝙴𝚃𝙷𝚄𝙽𝙸🤭🌝` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['447441454708'] //Owner number in aive msg
 global.premium = ['447441454708'] //Owner Number info
@@ -40,10 +40,10 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_𝙰𝚂𝙷𝙸𝙽𝙸.' //In list menu
+global.footer = '©_𝙽𝙴𝚃𝙷𝚄𝙽𝙸.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/sexybot8421' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
